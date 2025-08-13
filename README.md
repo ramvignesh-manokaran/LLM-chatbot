@@ -25,4 +25,4 @@ conda activate venv/
  ```bash
 pip install -r requirements.txt
 ```
-5. Create an .env file with below keys before executing ipynb files. OPENAI_API_KEY="" LANGCHAIN_API_KEY="" LANGCHAIN_PROJECT="" GROQ_API_KEY=""
+5. Create an .env file with below keys before executing ipynb files.  LANGCHAIN_API_KEY="" LANGCHAIN_PROJECT="" GROQ_API_KEY=""
